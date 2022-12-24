@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.item {
+  color: darkblue;
+  cursor: pointer;
+}
+.fimg {
+  height: 60px;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+  pointer-events: none;
+}
+
+/* .p3 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+} */
+
+.heading {
+  /* margin-top: 100px; */
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* margin-bottom: 100px; */
+}
+
+.bottom {
+  margin-top: 40px;
+}
